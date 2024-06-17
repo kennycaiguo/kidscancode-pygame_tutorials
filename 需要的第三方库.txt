@@ -1,0 +1,2 @@
+这个游戏需要一些额外的库：pytmx，pytweening
+直接使用pip install pytmx pytweening
